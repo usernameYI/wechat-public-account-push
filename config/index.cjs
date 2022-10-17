@@ -8,10 +8,10 @@
 const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: '#年年有俞',
+  APP_ID: 'wxba7aaa0494b47c80',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '#年年有俞',
+  APP_SECRET: 'bbfbdd4ce0303c72716574b82a894532',
 
   PROVINCE: '河北',
   CITY: '定州',
